@@ -9,14 +9,7 @@
 ```javascript
 const schweyuanzig = {
   name:       "schweyuanzig",
-  languages:  ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Lua", "Luau"],
-  passion:    "Turning ideas into clean interfaces 🎨",
-
-  strengths:  ["Clean UI", "Responsive Design", "Performance"],
-  hobbies:    ["Coding", "Open Source", "Building cool stuff"],
-
-  currentGoal: "Ship something awesome every week 🚀",
-  motto:       "First make it work, then make it beautiful ✨",
+  languages:  ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Lua", "Luau"]
 };
 ```
 
