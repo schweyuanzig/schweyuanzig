@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey!%20I'm%20schweyuanzig%20👋&fontSize=38&fontColor=e0e0e0&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Coder%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&descColor=a0a0b0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B9CFF&center=true&vCenter=true&width=620&lines=HTML+%2B+CSS+%3D+Magic+%F0%9F%8E%A8;TypeScript+enjoyer+%F0%9F%92%99;C%2B%2B+when+performance+matters+%E2%9A%A1;Lua+%26+Luau+scripter+%F0%9F%8C%99;Always+building%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
-
-## 🧑‍💻 About Me
 
 ```javascript
 const schweyuanzig = {
@@ -60,16 +56,6 @@ const schweyuanzig = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=schweyuanzig&theme=tokyonight&hide_border=true&background=0d1117&ring=7b9cff&fire=7b9cff&currStreakLabel=7b9cff&sideLabels=c9d1d9&dates=666677" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=schweyuanzig&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
 
