@@ -36,41 +36,9 @@ const schweyuanzig = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=schweyuanzig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b9cff&icon_color=7b9cff&text_color=c9d1d9&ring_color=7b9cff&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schweyuanzig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b9cff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=schweyuanzig&theme=tokyonight&hide_border=true&background=0d1117&ring=7b9cff&fire=7b9cff&currStreakLabel=7b9cff&sideLabels=c9d1d9&dates=666677" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schweyuanzig&bg_color=0d1117&color=7b9cff&line=7b9cff&point=c9d1d9&area=true&hide_border=true)](https://github.com/schweyuanzig)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=schweyuanzig&color=7b9cff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/schweyuanzig?style=for-the-badge&color=7b9cff&labelColor=0d1117&logo=github)](https://github.com/schweyuanzig?tab=followers)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" />
 </div>
