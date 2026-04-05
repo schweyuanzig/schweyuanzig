@@ -9,7 +9,7 @@
 ```javascript
 const schweyuanzig = {
   name:       "schweyuanzig",
-  languages:  ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Lua", "Luau"]
+  languages:  ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Python", "Lua", "Luau"]
 };
 ```
 
