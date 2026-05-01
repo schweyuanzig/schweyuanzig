@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="./text.png" />
-## psikopat herif
+psikopat herif
+. #
 </div>
 
 ---
