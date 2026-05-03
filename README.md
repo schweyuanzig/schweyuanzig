@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./text.png" />
-<p>--</p> " <em><h2>" psikopat herif "</h2></em>
+  <em><p>-- </p><h2>" psikopat herif "</h2></em>
 </div>
 
 ---
