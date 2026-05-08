@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./text.png" />
-  <em><h2>" psikopat herif "</h2></em>
+  <em><h2>"57 characters remaining"</h2></em>
 </div>
 
 ---
